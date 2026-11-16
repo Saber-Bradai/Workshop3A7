@@ -1,5 +1,5 @@
 def main():
-    print("Hello from techweb3a7!")
+    print("Hello from myprojet3a7!")
 
 
 if __name__ == "__main__":
